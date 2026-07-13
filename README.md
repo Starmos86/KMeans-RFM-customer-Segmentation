@@ -74,7 +74,7 @@ The notebook includes:
 
 ## 🔗 Related Project
 
-This project is part of a broader segmentation analysis on the same dataset — see the companion [rule-based RFM segmentation project](#) for a comparison between a quantile-based approach and this statistically-driven clustering approach.
+This project is part of a broader segmentation analysis on the same dataset — see the companion [Rule-Based-RFM-Customer-Segmentation](#) for a comparison between a quantile-based approach and this statistically-driven clustering approach.
 
 ---
 
